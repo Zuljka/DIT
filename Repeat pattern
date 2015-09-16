@@ -1,0 +1,12 @@
+size (400, 80);
+background(0);
+
+//circle
+fill(#EEFF05);
+
+int x = 40;
+while(x<401)
+{
+  ellipse(x, 40, 80, 80);
+  x = x + 80;
+}
