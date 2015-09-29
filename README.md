@@ -1,1 +1,1 @@
-# DIT
+Nice version od Readme
