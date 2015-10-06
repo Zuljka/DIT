@@ -1,1 +1,1 @@
-Nice version od Readme
+Location for my college projects 
